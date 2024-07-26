@@ -1,1 +1,1 @@
-# random-pic
+# access-random-file
